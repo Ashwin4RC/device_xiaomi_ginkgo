@@ -136,7 +136,7 @@ on boot
     chown system system /sys/class/power_supply/usb/typec_cc_orientation
 
 #Load WLAN driver
-    insmod /vendor/lib/modules/qca_cld3_wlan.ko
+    insmod /vendor/lib/modules/wlan.ko
 
     chown wifi wifi /sys/module/wlan/parameters/fwpath
 
