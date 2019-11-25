@@ -78,6 +78,7 @@ PRODUCT_PACKAGES += \
     audio.r_submix.default \
     audio.usb.default \
     libaudio-resampler \
+    libtinycompress_vendor \
     tinymix
 
 PRODUCT_COPY_FILES += \
