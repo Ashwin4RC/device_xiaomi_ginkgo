@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.effect@4.0-impl \
     android.hardware.soundtrigger@2.1-impl:32 \
     audio.a2dp.default \
+    audio.primary.trinket \
     audio.r_submix.default \
     audio.usb.default \
     libaudio-resampler \
